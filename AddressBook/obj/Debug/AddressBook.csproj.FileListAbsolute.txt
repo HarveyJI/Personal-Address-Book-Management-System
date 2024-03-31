@@ -1,0 +1,71 @@
+D:\visual\Demo\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\visual\Demo\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\visual\Demo\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.csprojAssemblyReference.cache
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.Login.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.RegisterForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.LinkForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.UpdateForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.AboutForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.ChangePasswordForm.resources
+D:\visual\Demo\AddressBook\AddressBook\obj\Debug\AddressBook.LogoutForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\bin\Debug\AddressBook.exe.config
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.exe
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.pdb
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\bin\Debug\AddressBook.exe
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\bin\Debug\AddressBook.pdb
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.AboutForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.ChangePasswordForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.LinkForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.Login.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.LogoutForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.RegisterForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.UpdateForm.resources
+D:\Desktop\AddressBook-main\AddressBook-main\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.LinkForm.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.Login.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.RegisterForm.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.UpdateForm.resources
+D:\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.LinkForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.Login.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.RegisterForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.UpdateForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.LinkForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.Login.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.RegisterForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.UpdateForm.resources
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\作业\大三上学期\.net c#\个人通讯录管理系统\个人通讯录管理系统\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
