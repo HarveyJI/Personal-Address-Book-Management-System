@@ -6,8 +6,10 @@
 一、	需求分析
 1.	概述
 本需求规约从用户对软件的需求出发,系统分析软件的功能以及实现过程所需要做的所有工作。主要定义了手机通讯录管理工具的需求，由五大模块组成，具体功能分为:查询联系人:增刺改联系人;导入/导出联系人，发送联系人信息:设置等。
+
 2.	基本功能
 本手机通讯录工具主要实现五大功能:联系人的查询:字段查询，分组查询，字母排序查询;增加、删除联系人以及修改联系人信息;导入、导出联系人;发送联系人信息;设置。
+
 3.	具体需求分析
 (1)	分组管理用例
 基木流:点击联系人列表视图中的分组键进入进入分组视图;点击分组视图中的添加键添加分组,或者点击分组后的删除键删除分组;点击分组后的添加键向分组中添加联系人，或者点击分组中联系人后的删除键删除联系人。
@@ -25,9 +27,13 @@
 基本流:用户点击菜单进入导入导出界面，点击导出手机通信录出现文件系统选择保存路径，选择并且点击导出后在指定目录生成包含通信录信息的Excel文件，显示“通信录导出成功”并且返回至导入导出界而。点击导入手机通信录出现文件系统选择需要导入的Excel文件，选中文件点击导入后将信息添加至手机通信录，显示导入成功并返回导入导出界面。
 备选流:点击进入导入导出界面，点击返回则返回软件主界面。导出文件时存储卡空间不足，则提示错误并返回导出界面。导入文件时打开无法识别的文件提示错误，返回导入文件界面。
 本需求规约从用户对软件的需求出发,系统分析软件的功能以及实现过程所需要做的所有工作。主要定义了手机通讯录管理工具的需求，由五大模块组成，具体功能分为:查询联系人:增刺改联系人;导入/导出联系人，发送联系人信息:设置等。
+
 4.	功能模块分析
 系统采用“自顶向下，逐步求精“的分析与设计方法来完成各功能模块的设计。系统功能模块图如下图所示。
 理
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/75a862e6-cacb-41cf-b0b5-8ce7365e010d)
+
  
 个人通讯录管理系统功能模块图
 
@@ -39,15 +45,21 @@
 
 
 二、	详细设计
+
 1.	数据库设计
 数据库是网上图书销售系统的重要组成部分。系统中所有的数据，数据间的关系都存储在数据库当中。这样以便于后台对数据的新增、修改、删除查询等各项操作。本系统采用SQLserver数据库，数据库的名字为address，数据库中有多张数据表，每个数据表中都有大量的数据，每一行代表着一条记录，每一列代表着一个字段。
+
 2.	数据库实体图
 （1）图书及其属性：
- 
+
+ ![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/8eb692b1-76e0-4c25-b083-167b3ca86de4)
+
 
 通讯记录实体图
 （2）用户及其属性
- 
+
+ ![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/947853b3-da29-4fff-a531-1b17235e0581)
+
 
 用户实体图
 
@@ -56,20 +68,31 @@
 通讯记录设计如表所示。通讯记录表描述了关于本系统内所有的通讯记录信息。
 
 通讯记录表
+
 列名	数据类型	约束
+
 姓名	varchar(13)	主码 非空约束
+
 移动手机	varchar(40)	主码 检查约束
+
 Emali	varchar(20)	无
+
 扣扣	varchar(8)	无
+
 单位	varchar(30)	  无  
+
 固定电话	varchar(30)	无
 类别	varchar(4)	非空约束
 
 （2）用户表
      用户表设计如表所示，用户表描述了本系统内所有的用户登录信息。
+
 用户表
+
 列名	数据类型	约束
+
 账户 	varchar(10)	主码
+
 密码 	varchar(18)	主码
 
 
@@ -110,6 +133,9 @@ Emali	varchar(20)	无
 (3)	向注册页面跳转
 直接在注册链接文本上新窗口打开注册首页。
 (4)	界面设计如下
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/a0028785-5c0c-4316-aa25-bee6dfd88005)
+
  
 3.	注册页面
 (1)	注册验证
@@ -120,6 +146,9 @@ Emali	varchar(20)	无
 (2)	跳转到登入界面
 通过注册验证后，新窗口打开登入界面。
 (3)	界面设计如下
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/a2cd27d1-7b36-4aa7-8524-b59fa113a964)
+
  
 4.	用户首页
 (1)	显示用户名并退出
@@ -152,6 +181,9 @@ Emali	varchar(20)	无
 2)	提示弹出“确认删除?", "信息提示”信息。
 3)	初始化数据库对象，使用sql的insert语句，再使用数据库对象的更新方法对高光显示的信息删除。如果成功提示“删除成功”，失败提示“删除失败”。
 (8)	界面设计如下
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/48a80550-1165-48bd-9ab5-200868a6d192)
+
  
 
 
@@ -187,14 +219,27 @@ Emali	varchar(20)	无
 四、	运行结果、测试与分析
 1.	注册功能测试：
 (1)	注册失败：
-  
+
+  ![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/216e5dd8-9046-4728-abff-5f5654a14fb0)
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/0aebaca5-af94-4e11-872e-3d348ad1fb38)
+
 
 (2)	注册成功：
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/2533144b-e50c-46d3-b829-336d0d998740)
+
  
 2.登录功能模块：
 (1)	登录失败：
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/8f9d9920-e8dc-42fe-939d-7649407e2e97)
+
  
 (2)	登录成功：
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/4404d115-891c-4339-a946-404df0dfd172)
+
  
 
 3.	查询功能模块：
@@ -212,21 +257,33 @@ Emali	varchar(20)	无
 4.	添加信息功能模块
 (1)	添加成功：
 
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/f7cda18a-2f67-45ae-aa80-ee7fcd696e7e)
+
  
 (2)	添加失败-----手机号为空：
  
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/b7b7cc54-e363-42aa-919f-351e77afc7ea)
 
 
 (3)	添加失败-----手机号不为11位：
  
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/3900afce-25f0-4437-8ba9-d73badeba617)
+
 
 (4)	添加失败-----姓名为空：
  
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/ef265f83-345a-4640-922d-a798d06cf5b7)
 
 
 
 5.	修改信息功能模块：
+
+  ![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/96469d1b-7158-4305-922c-3839aede8755)
+
  
-6.	删除信息功能模块：
+7.	删除信息功能模块：
+
+![image](https://github.com/HarveyJI/Personal-AddressBook-Management-System/assets/78439035/a93e099f-679e-42ba-80b6-2f1bcbca92ee)
+    
   
 
